@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarkalbande
-- 👀 I’m work with ShareChat Graphics team.
+- 👀 I work with ShareChat Graphics team.
 - 📫 How to reach me sagarkalbande@sharechat.co
 
 <!---
